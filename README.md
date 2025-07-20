@@ -14,8 +14,6 @@ MENTOR: NEELA SANTOSH
 
 DESCRIPTION OF THE TASK:
 
-OUTPUT:
-
 This Personal Portfolio Website is a clean, responsive, and modern single-page application developed using HTML, CSS, and a touch of JavaScript (for interactivity, if extended). It was created with the goal of showcasing the developer’s projects, skills, and personal brand in an organized and visually appealing way. The site belongs to Selva Nandhini, a passionate frontend developer and current 3rd-year Computer Science Engineering student.
 
 The tools used in building this website are:
@@ -73,6 +71,8 @@ Responsiveness is a major feature of this portfolio. The layout adapts gracefull
 
 Conclusion
 This personal portfolio is more than just a website; it's a digital identity. It showcases not only the technical skills of the developer but also their attention to detail, design sense, and user experience knowledge. The clean code structure, responsive design, and focus on usability make it a solid frontend project suitable for academic, internship, or job applications.
+
+OUTPUT:
 
 <img width="1912" height="961" alt="Image" src="https://github.com/user-attachments/assets/42cc8281-c4ed-406a-ac4c-25037974af4f" />
 
