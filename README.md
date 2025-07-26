@@ -1,17 +1,5 @@
 # PERSONAL-PORTFOLIO-WEBPAGE
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: SELVA NANDHINI S
-
-INTERN ID: CT04DG3334
-
-DOMAIN: FRONT END DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
 DESCRIPTION OF THE TASK:
 
 This Personal Portfolio Website is a clean, responsive, and modern single-page application developed using HTML, CSS, and a touch of JavaScript (for interactivity, if extended). It was created with the goal of showcasing the developer’s projects, skills, and personal brand in an organized and visually appealing way. The site belongs to Selva Nandhini, a passionate frontend developer and current 3rd-year Computer Science Engineering student.
